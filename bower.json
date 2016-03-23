@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "David Falcón Naranjo <david_el_125@hotmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.5.0"
+  }
+}
